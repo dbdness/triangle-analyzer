@@ -1,0 +1,10 @@
+/Users/dannynielsen/IdeaProjects/triangleidentifier/UnitTest/bin/Debug/netcoreapp2.0/UnitTest.deps.json
+/Users/dannynielsen/IdeaProjects/triangleidentifier/UnitTest/bin/Debug/netcoreapp2.0/UnitTest.runtimeconfig.json
+/Users/dannynielsen/IdeaProjects/triangleidentifier/UnitTest/bin/Debug/netcoreapp2.0/UnitTest.runtimeconfig.dev.json
+/Users/dannynielsen/IdeaProjects/triangleidentifier/UnitTest/bin/Debug/netcoreapp2.0/UnitTest.dll
+/Users/dannynielsen/IdeaProjects/triangleidentifier/UnitTest/bin/Debug/netcoreapp2.0/UnitTest.pdb
+/Users/dannynielsen/IdeaProjects/triangleidentifier/UnitTest/obj/Debug/netcoreapp2.0/UnitTest.csproj.CoreCompileInputs.cache
+/Users/dannynielsen/IdeaProjects/triangleidentifier/UnitTest/obj/Debug/netcoreapp2.0/UnitTest.AssemblyInfoInputs.cache
+/Users/dannynielsen/IdeaProjects/triangleidentifier/UnitTest/obj/Debug/netcoreapp2.0/UnitTest.AssemblyInfo.cs
+/Users/dannynielsen/IdeaProjects/triangleidentifier/UnitTest/obj/Debug/netcoreapp2.0/UnitTest.dll
+/Users/dannynielsen/IdeaProjects/triangleidentifier/UnitTest/obj/Debug/netcoreapp2.0/UnitTest.pdb

@@ -43,7 +43,12 @@ public class Main {
 
         Triangle triangle = new Triangle(side1, side2, side3);
         String type = triangle.getType();
+        printTriangleType(type);
 
+
+    }
+
+    private static void printTriangleType(String type){
         switch (type) {
             case "Equilateral":
                 System.out.println("Your triangle is equilateral! All three of its sides are of equal length.");
@@ -58,7 +63,6 @@ public class Main {
                 System.out.println(type);
                 break;
         }
-
 
     }
 }
